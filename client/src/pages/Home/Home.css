@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+h1 {
+   
+font-family: 'Lobster';
+color: white;
+    
+}
+
+
+body {
+    background-image: url("../../images/concrete_seamless.png");
+}
+
+
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    margin-left: 42%;
+}
